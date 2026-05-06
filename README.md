@@ -1,7 +1,6 @@
-# Auto-Lights
+# Friendly Lamp
 
-Product name: AUTO lights 
-Automatic headlight that can be upgraded into a car that wasn't equipped with them. 
+Product name: Friendly lamp 
 
-Purpose: It allows customers to not worry about properly turning on/off their headlights. While this feature is in many vehicles, old ones lack access to it. So for those who like the style of the old cars but want the features of the newer models this is for them. 
+Purpose: Creating a smart headlamp that is able to detect humans and its able to dimm the intensity of tis LED's as to not blind them with them.
 
