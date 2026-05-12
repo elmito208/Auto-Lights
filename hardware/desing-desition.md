@@ -1,6 +1,6 @@
  Desing  desitions] 
 
-![alt text][def]
+
 
 
 <img width="1142" height="592" alt="image" src="https://github.com/user-attachments/assets/fd1c87eb-73e7-4c6b-bad4-60f5939f1387" />
