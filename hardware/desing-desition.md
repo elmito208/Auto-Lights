@@ -1,4 +1,4 @@
- Desing  desitions] 
+ Desing  desitions
 
 
 
@@ -19,7 +19,9 @@ Their brightness is good for this project.
 LED Drivers AMC7135 CN5711
 Final CN5711
 The AMC7135 didn't match the current needed for the LED so the CN5711 became its replacement since it has a max current of 1.5 A and can work with our supply voltage. 
- 
+
+ Battery 18650 Battery
+ extremely common for this size and purpose
 
 Switch = 2 1P2T 
  One acts as a power on and off, and the second one is for having dimming mode on or off. 
