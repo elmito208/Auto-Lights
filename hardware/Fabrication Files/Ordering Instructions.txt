@@ -1,0 +1,12 @@
+Material FR4 >=TG130
+Material Thickness 1.6mm
+Copper Weight 1 oz outer, 1oz inner
+Solder Mask Both Sides
+Silk Screen Both Sides
+Layers 2: 3.3V, GND, 
+Solder Mask Color Green
+Silk Screen Color White
+Board Size  69.250mm x 51mm
+Finish HASL lead free
+Stencils top
+Min Track/Spacing 1/1 mil 
